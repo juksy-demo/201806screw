@@ -639,13 +639,13 @@ a.nav_02_btn {
                 margin: 12%;
                 padding-top: 16%;
                 border: 1px solid #fff;
-                box-shadow: 10px 10px 0 #E7C35B;
+                box-shadow: 10px 10px 0 #010000;
                 transition: .5s; } }
             @media screen and (min-width: 1024px) {
               .header_03 .headerWrap .detail .detailWrap .txtInner a.link .linkWrap .ch {
                 display: block; } }
             .header_03 .headerWrap .detail .detailWrap .txtInner a.link .linkWrap:hover {
-              box-shadow: 5px 5px 0 #E7C35B; }
+              box-shadow: 5px 5px 0 #010000; }
           .header_03 .headerWrap .detail .detailWrap .txtInner a.link:hover .arrow {
             animation: arrow_move 1s linear infinite; }
 
